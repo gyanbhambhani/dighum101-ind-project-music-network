@@ -1,0 +1,2 @@
+# This folder holds optional symbolic music files (MIDI or MusicXML).
+# Drop a score here and load it with m21.converter.parse("data/your_file.mid").
