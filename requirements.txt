@@ -1,0 +1,6 @@
+music21
+networkx
+matplotlib
+pandas
+jupyter
+ipykernel
