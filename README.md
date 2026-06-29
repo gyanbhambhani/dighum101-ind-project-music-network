@@ -135,6 +135,13 @@ jupyter notebook notebook.ipynb
 Select the `dighum101` kernel and run the cells in order. Figures and tables are
 written to `outputs/`.
 
+## A note on AI use
+
+I used Cursor's agent as a co-author to help me write detailed, well-structured
+commit messages and a clear commit history, so that the development of this
+project is easier to review and follow. The AI helped with documenting the work,
+not with writing the actual code or doing the analysis. Those are mine.
+
 ## Personal notes
 
 I have played music basically my whole life. I started when I was five and grew up
